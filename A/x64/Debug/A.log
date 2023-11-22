@@ -1,0 +1,9 @@
+﻿  A.cpp
+C:\Users\Igor\source\repos\ConsoleApplication1\A\A.cpp(37,25): error C2664: 'double newton_method(double (__cdecl *)(double),double (__cdecl *)(double),double,double,int)': cannot convert argument 1 from 'main::<lambda_1>' to 'double (__cdecl *)(double)'
+  C:\Users\Igor\source\repos\ConsoleApplication1\A\A.cpp(37,80):
+  No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  C:\Users\Igor\source\repos\ConsoleApplication1\A\A.cpp(19,8):
+  see declaration of 'newton_method'
+  C:\Users\Igor\source\repos\ConsoleApplication1\A\A.cpp(37,25):
+  while trying to match the argument list '(main::<lambda_1>, overloaded-function, double)'
+  
